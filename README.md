@@ -34,6 +34,9 @@ Was this project useful? Please consider <a href="https://www.buymeacoffee.com/j
 
 ![Taskcafe](./.github/taskcafe_preview.png)
 
+## IMPORTANT!
+This is a fork from https://github.com/JordanKnott/taskcafe
+
 ## Features
 
 The following features have been implemented:
@@ -58,7 +61,7 @@ You'll need both [docker](https://www.docker.com/) & [docker-compose](https://do
 First clone the repository:
 
 ``` bash
-git clone https://github.com/JordanKnott/taskcafe && cd taskcafe
+git clone https://github.com/Oleg-Mozhey/taskcafe && cd taskcafe
 ```
 
 Now do the following:
